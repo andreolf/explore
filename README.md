@@ -15,6 +15,7 @@ Go to the issues, hit **NEW** and choose **UPDATE/NEW EVENT**:
 - Web: [blockchainweek.berlin](https://blockchainweek.berlin)
 - Twitter: [@BerBlockWeek](https://twitter.com/BerBlockWeek)
 - Matrix: [#blockchainweek:dod.ngo](https://matrix.to/#/%23blockchainweek:dod.ngo)
+- Telegram: [blockchainweek berlin Telegram](https://t.me/berlin_blockchain_week_agenda)
 
 ## Technologies used
 
